@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 )
 
 // RecoveryConfig holds recovery middleware configuration
@@ -164,4 +164,3 @@ func formatDevErrorPage(err interface{}, stack string) string {
 </body>
 </html>`, err, formattedStack.String())
 }
-

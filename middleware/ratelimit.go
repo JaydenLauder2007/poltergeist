@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 	"golang.org/x/time/rate"
 )
 
@@ -234,4 +234,3 @@ func SlidingWindowRateLimit(config *SlidingWindowConfig) poltergeist.MiddlewareF
 		}
 	}
 }
-

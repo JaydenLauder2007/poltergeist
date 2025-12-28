@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 )
 
 // Timeout returns a middleware that times out requests
@@ -133,4 +133,3 @@ func If(condition func(c *poltergeist.Context) bool, middleware poltergeist.Midd
 		}
 	}
 }
-

@@ -8,7 +8,7 @@
 //
 //	package main
 //
-//	import "github.com/poltergeist-framework/poltergeist"
+//	import "github.com/gofuckbiz/poltergeist"
 //
 //	func main() {
 //	    app := poltergeist.New()
@@ -77,5 +77,5 @@
 //	    log.Printf("Request took: %v", duration)
 //	})
 //
-// For more information, visit https://github.com/poltergeist-framework/poltergeist
+// For more information, visit https://github.com/gofuckbiz/poltergeist
 package poltergeist

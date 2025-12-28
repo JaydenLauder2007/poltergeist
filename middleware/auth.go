@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 )
 
 // BasicAuthConfig holds Basic Auth configuration
@@ -226,4 +226,3 @@ func StaticAPIKey(validKey string) poltergeist.MiddlewareFunc {
 		return subtle.ConstantTimeCompare([]byte(key), []byte(validKey)) == 1
 	})
 }
-

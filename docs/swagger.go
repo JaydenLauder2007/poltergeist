@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 )
 
 // OpenAPI represents the OpenAPI 3.0 specification

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 )
 
 // CORSConfig holds CORS middleware configuration
@@ -121,4 +121,3 @@ func AllowAllCORS() poltergeist.MiddlewareFunc {
 		MaxAge:           86400,
 	})
 }
-

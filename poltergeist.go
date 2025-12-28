@@ -8,7 +8,7 @@
 //
 //	package main
 //
-//	import "github.com/poltergeist-framework/poltergeist"
+//	import "github.com/gofuckbiz/poltergeist"
 //
 //	func main() {
 //	    app := poltergeist.New()
@@ -68,4 +68,3 @@ func Quick(addr string, routes map[string]HandlerFunc) error {
 	}
 	return s.Run(addr)
 }
-

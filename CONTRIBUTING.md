@@ -51,7 +51,7 @@ go test -cover ./...
 ## Development Setup
 
 ```bash
-git clone https://github.com/poltergeist-framework/poltergeist.git
+git clone https://github.com/gofuckbiz/poltergeist.git
 cd poltergeist
 go mod download
 go build ./...

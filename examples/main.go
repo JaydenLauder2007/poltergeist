@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/poltergeist-framework/poltergeist"
-	"github.com/poltergeist-framework/poltergeist/docs"
-	"github.com/poltergeist-framework/poltergeist/middleware"
+	"github.com/gofuckbiz/poltergeist"
+	"github.com/gofuckbiz/poltergeist/docs"
+	"github.com/gofuckbiz/poltergeist/middleware"
 )
 
 // User represents a user model

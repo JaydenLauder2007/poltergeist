@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/poltergeist-framework/poltergeist"
+	"github.com/gofuckbiz/poltergeist"
 )
 
 // LogFormat defines the log output format
@@ -168,4 +168,3 @@ func RequestLogger() poltergeist.MiddlewareFunc {
 		}
 	}
 }
-

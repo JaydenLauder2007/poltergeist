@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://pkg.go.dev/github.com/poltergeist-framework/poltergeist"><img src="https://pkg.go.dev/badge/github.com/poltergeist-framework/poltergeist.svg" alt="Go Reference"></a>
+  <a href="https://pkg.go.dev/github.com/gofuckbiz/poltergeist"><img src="https://pkg.go.dev/badge/github.com/gofuckbiz/poltergeist.svg" alt="Go Reference"></a>
   <a href="#-installation"><img src="https://img.shields.io/badge/go-%3E%3D1.21-00ADD8?style=flat-square&logo=go" alt="Go Version"></a>
-  <a href="https://goreportcard.com/report/github.com/poltergeist-framework/poltergeist"><img src="https://goreportcard.com/badge/github.com/poltergeist-framework/poltergeist" alt="Go Report Card"></a>
+  <a href="https://goreportcard.com/report/github.com/gofuckbiz/poltergeist"><img src="https://goreportcard.com/badge/github.com/gofuckbiz/poltergeist" alt="Go Report Card"></a>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Version">
 </p>
@@ -67,7 +67,7 @@ Whether you're building microservices, real-time chat applications, or desktop s
 ### Install
 
 ```bash
-go get github.com/poltergeist-framework/poltergeist
+go get github.com/gofuckbiz/poltergeist
 ```
 
 ### Verify Installation
@@ -89,9 +89,9 @@ import (
     "log"
     "time"
 
-    "github.com/poltergeist-framework/poltergeist"
-    "github.com/poltergeist-framework/poltergeist/docs"
-    "github.com/poltergeist-framework/poltergeist/middleware"
+    "github.com/gofuckbiz/poltergeist"
+    "github.com/gofuckbiz/poltergeist/docs"
+    "github.com/gofuckbiz/poltergeist/middleware"
 )
 
 // User model
@@ -496,7 +496,7 @@ We welcome contributions! Here's how you can help:
 
 ### Reporting Issues
 
-Found a bug? Have a suggestion? [Open an issue](https://github.com/poltergeist-framework/poltergeist/issues/new) with details.
+Found a bug? Have a suggestion? [Open an issue](https://github.com/gofuckbiz/poltergeist/issues/new) with details.
 
 ---
 
