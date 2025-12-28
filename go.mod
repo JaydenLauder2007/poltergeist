@@ -1,4 +1,4 @@
-module github.com/poltergeist-framework/poltergeist
+module github.com/gofuckbiz/poltergeist
 
 go 1.21
 

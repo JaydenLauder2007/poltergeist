@@ -15,10 +15,11 @@
 </p>
 
 <p align="center">
+  <a href="https://pkg.go.dev/github.com/poltergeist-framework/poltergeist"><img src="https://pkg.go.dev/badge/github.com/poltergeist-framework/poltergeist.svg" alt="Go Reference"></a>
   <a href="#-installation"><img src="https://img.shields.io/badge/go-%3E%3D1.21-00ADD8?style=flat-square&logo=go" alt="Go Version"></a>
+  <a href="https://goreportcard.com/report/github.com/poltergeist-framework/poltergeist"><img src="https://goreportcard.com/badge/github.com/poltergeist-framework/poltergeist" alt="Go Report Card"></a>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
 </p>
 
 <p align="center">

@@ -170,9 +170,9 @@ func listUsers(c *poltergeist.Context) error {
 	}
 
 	return c.JSON(200, poltergeist.H{
-		"users": users[offset:end],
-		"total": len(users),
-		"limit": limit,
+		"users":  users[offset:end],
+		"total":  len(users),
+		"limit":  limit,
 		"offset": offset,
 	})
 }
@@ -349,4 +349,3 @@ func simpleExample() {
 
 	app.Run(":3000")
 }
-
