@@ -11,9 +11,11 @@
 # Output of go coverage
 *.out
 coverage.txt
+coverage.html
 
 # Go workspace
 go.work
+go.work.sum
 
 # IDE
 .idea/
@@ -21,19 +23,67 @@ go.work
 *.swp
 *.swo
 *~
+.project
+.settings/
 
 # OS
 .DS_Store
+.DS_Store?
 Thumbs.db
+ehthumbs.db
+Desktop.ini
 
 # Build
 /bin/
 /dist/
+/build/
+/out/
 
 # Logs
 *.log
+logs/
 
 # Local config
 .env
 .env.local
+.env.*.local
 
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Debug
+debug
+*.prof
+cpu.out
+mem.out
+
+# Vendor (if not using go modules)
+# vendor/
+
+# Air (live reload)
+tmp/
+
+# Profiling
+*.pprof
+
+# Example binaries
+examples/*.exe
+examples/main
+
+# Certificates (never commit!)
+*.pem
+*.key
+*.crt
+*.cer
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+__debug_bin*
